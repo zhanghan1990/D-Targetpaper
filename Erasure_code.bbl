@@ -1,0 +1,175 @@
+\begin{thebibliography}{10}
+
+\bibitem{Ceph}
+ceph.
+\newblock \url{https://github.com/ceph/ceph/}.
+
+\bibitem{DTARGET}
+D-target.
+\newblock \url{https://github.com/zhanghan1990/D-Target/}.
+
+\bibitem{Tahoe}
+Tahoe-lafs.
+\newblock \url{https://github.com/tahoe-lafs/tahoe-lafs/}.
+
+\bibitem{DCTCP}
+M.~Alizadeh, A.~Greenberg, D.~A. Maltz, J.~Padhye, P.~Patel, B.~Prabhakar,
+  S.~Sengupta, and M.~Sridharan.
+\newblock Data center tcp (dctcp).
+\newblock SIGCOMM '10, pages 63--74, 2010.
+
+\bibitem{pFabric}
+M.~Alizadeh, S.~Yang, M.~Sharif, S.~Katti, N.~McKeown, B.~Prabhakar, and
+  S.~Shenker.
+\newblock pfabric: Minimal near-optimal datacenter transport.
+\newblock SIGCOMM '13, pages 435--446, 2013.
+
+\bibitem{beaver2010finding}
+D.~Beaver, S.~Kumar, H.~C. Li, J.~Sobel, P.~Vajgel, et~al.
+\newblock Finding a needle in haystack: Facebook's photo storage.
+\newblock In {\em OSDI}, volume~10, pages 1--8, 2010.
+
+\bibitem{chen2000supply}
+Z.-L. Chen and N.~G. Hall.
+\newblock Supply chain scheduling: Assembly systems.
+\newblock Technical report, Working Paper, Department of Systems Engineering,
+  University of Pennsylvania, 2000.
+
+\bibitem{chowdhury2015efficient}
+M.~Chowdhury and I.~Stoica.
+\newblock Efficient coflow scheduling without prior knowledge.
+\newblock In {\em ACM SIGCOMM Computer Communication Review}, volume~45, pages
+  393--406. ACM, 2015.
+
+\bibitem{chowdhury2014efficient}
+M.~Chowdhury, Y.~Zhong, and I.~Stoica.
+\newblock Efficient coflow scheduling with varys.
+\newblock In {\em ACM SIGCOMM Computer Communication Review}, volume~44, pages
+  443--454. ACM, 2014.
+
+\bibitem{dean2008mapreduce}
+J.~Dean and S.~Ghemawat.
+\newblock Mapreduce: simplified data processing on large clusters.
+\newblock {\em Communications of the ACM}, 51(1):107--113, 2008.
+
+\bibitem{dimakis2010network}
+A.~G. Dimakis, P.~B. Godfrey, Y.~Wu, M.~J. Wainwright, and K.~Ramchandran.
+\newblock Network coding for distributed storage systems.
+\newblock {\em IEEE Transactions on Information Theory}, 56(9):4539--4551,
+  2010.
+
+\bibitem{dimakis606049decentralized}
+A.~G. Dimakis, V.~Prabhakaran, and K.~Ramchandran.
+\newblock Decentralized erasure codes for distributed networked storage.
+\newblock {\em arXiv preprint cs/0606049}.
+
+\bibitem{dimakis2006decentralized}
+A.~G. Dimakis, V.~Prabhakaran, and K.~Ramchandran.
+\newblock Decentralized erasure codes for distributed networked storage.
+\newblock {\em IEEE/ACM Transactions on Networking (TON)}, 14(SI):2809--2816,
+  2006.
+
+\bibitem{dogar2014decentralized}
+F.~R. Dogar, T.~Karagiannis, H.~Ballani, and A.~Rowstron.
+\newblock Decentralized task-aware scheduling for data center networks.
+\newblock In {\em ACM SIGCOMM Computer Communication Review}, volume~44, pages
+  431--442. ACM, 2014.
+
+\bibitem{PDQ}
+C.-Y. Hong, M.~Caesar, and P.~Godfrey.
+\newblock Finishing flows quickly with preemptive scheduling.
+\newblock {\em ACM SIGCOMM Computer Communication Review}, 42(4):127--138,
+  2012.
+
+\bibitem{huang2016sunflow}
+X.~S. Huang, X.~S. Sun, and T.~E. Ng.
+\newblock Sunflow: Efficient optical circuit scheduling for coflows.
+\newblock In {\em Proceedings of the 12th International on Conference on
+  emerging Networking EXperiments and Technologies}, pages 297--311. ACM, 2016.
+
+\bibitem{li2013erasure}
+J.~Li and B.~Li.
+\newblock Erasure coding for cloud storage systems: a survey.
+\newblock {\em Tsinghua Science and Technology}, 18(3):259--272, 2013.
+
+\bibitem{lin2012secure}
+H.-Y. Lin and W.-G. Tzeng.
+\newblock A secure erasure code-based cloud storage system with secure data
+  forwarding.
+\newblock {\em IEEE transactions on parallel and distributed systems},
+  23(6):995--1003, 2012.
+
+\bibitem{luo2016towards}
+S.~Luo, H.~Yu, Y.~Zhao, S.~Wang, S.~Yu, and L.~Li.
+\newblock Towards practical and near-optimal coflow scheduling for data center
+  networks.
+\newblock {\em IEEE Transactions on Parallel and Distributed Systems},
+  27(11):3366--3380, 2016.
+
+\bibitem{mastrolilli2010minimizing}
+M.~Mastrolilli, M.~Queyranne, A.~S. Schulz, O.~Svensson, and N.~A. Uhan.
+\newblock Minimizing the sum of weighted completion times in a concurrent open
+  shop.
+\newblock {\em Operations Research Letters}, 38(5):390--395, 2010.
+
+\bibitem{L2DCT}
+A.~Munir, I.~Qazi, Z.~Uzmi, A.~Mushtaq, S.~Ismail, M.~Iqbal, and B.~Khan.
+\newblock Minimizing flow completion times in data centers.
+\newblock In {\em INFOCOM, 2013 Proceedings IEEE}, pages 2157--2165, April
+  2013.
+
+\bibitem{roemer2006note}
+T.~A. Roemer.
+\newblock A note on the complexity of the concurrent open shop problem.
+\newblock {\em Journal of scheduling}, 9(4):389--396, 2006.
+
+\bibitem{sathiamoorthy2013xoring}
+M.~Sathiamoorthy, M.~Asteris, D.~Papailiopoulos, A.~G. Dimakis, R.~Vadali,
+  S.~Chen, and D.~Borthakur.
+\newblock Xoring elephants: Novel erasure codes for big data.
+\newblock In {\em Proceedings of the VLDB Endowment}, volume~6, pages 325--336.
+  VLDB Endowment, 2013.
+
+\bibitem{schurman2009user}
+E.~Schurman and J.~Brutlag.
+\newblock The user and business impact of server delays, additional bytes, and
+  http chunking in web search.
+\newblock In {\em Velocity Web Performance and Operations Conference}, 2009.
+
+\bibitem{D2TCP}
+B.~Vamanan, J.~Hasan, and T.~Vijaykumar.
+\newblock Deadline-aware datacenter tcp (d2tcp).
+\newblock SIGCOMM '12, pages 115--126, 2012.
+
+\bibitem{D3}
+C.~Wilson, H.~Ballani, T.~Karagiannis, and A.~Rowtron.
+\newblock Better never than late: Meeting deadlines in datacenter networks.
+\newblock SIGCOMM '11, pages 50--61, 2011.
+
+\bibitem{wu2010cloud}
+J.~Wu, L.~Ping, X.~Ge, Y.~Wang, and J.~Fu.
+\newblock Cloud storage as the infrastructure of cloud computing.
+\newblock In {\em Intelligent Computing and Cognitive Informatics (ICICCI),
+  2010 International Conference on}, pages 380--383. IEEE, 2010.
+
+\bibitem{zhang2016coda}
+H.~Zhang, L.~Chen, B.~Yi, K.~Chen, M.~Chowdhury, and Y.~Geng.
+\newblock Coda: Toward automatically identifying and scheduling coflows in the
+  dark.
+\newblock In {\em Proceedings of the 2016 conference on ACM SIGCOMM 2016
+  Conference}, pages 160--173. ACM, 2016.
+
+\bibitem{zhang2015more}
+H.~Zhang, X.~Shi, X.~Yin, F.~Ren, and Z.~Wang.
+\newblock More load, more differentiation—a design principle for
+  deadline-aware congestion control.
+\newblock In {\em 2015 IEEE Conference on Computer Communications (INFOCOM)},
+  pages 127--135. IEEE, 2015.
+
+\bibitem{zhang2016fdrc}
+H.~Zhang, X.~Shi, X.~Yin, Z.~Wang, and Y.~Guo.
+\newblock Fdrc-flow duration time based rate control in data center networks.
+\newblock In {\em Quality of Service (IWQoS), 2016 IEEE/ACM 24th International
+  Symposium on}, pages 1--10. IEEE, 2016.
+
+\end{thebibliography}
